@@ -1,0 +1,9 @@
+#이정민 202002666 컴퓨터공학부, 파이썬 코드
+#touched by user2(ljm1102s)
+
+d = int(input('input date : '))
+h = int(input('input hour : '))
+m = int(input('input minute : '))
+s = int(input('input second : '))
+
+print(h, '시간', m, '분', s, '초')
